@@ -19,7 +19,7 @@ Additional Checks: Region-specific regressions and negative binomial models for 
 # File Structure
 
 c_program/: Main scripts and code for running the project.
-00_execute_honourpoliteness_master.py: Master script to run all processes.
+00_execute_honourpoliteness_master.R: Master script to run all processes in the correct order.
 
 d_results/: Outputs, including regression results and graphs.
 
