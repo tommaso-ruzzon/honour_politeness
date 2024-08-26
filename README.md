@@ -42,3 +42,6 @@ python 00_execute_honourpoliteness_master.py
 
 Limitations include data imbalance and potential classifier inaccuracies.
 Future work includes more balanced data collection and model improvements.
+
+# Reference:
+Grosjean,P.(2014).A HISTORY OF VIOLENCE: THE CULTURE OF HONOR AND HOMICIDE IN THE US SOUTH. Journal of the European Economic Association, 12(5), 1285–1316.
