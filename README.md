@@ -27,15 +27,15 @@ results/: Outputs, including regression results and graphs.
 How to Run
 
 Clone the repository:
-'''bash
+''' ruby
 git clone https://github.com/tommaso-ruzzon/honour_politeness.git
-
+'''
 Navigate to the project directory:
-'''bash
+''' ruby
 cd honour_politeness/c_program
 
 Run the master script:
-'''bash
+''' ruby
 python 00_execute_honourpoliteness_master.py
 
 # Future work
