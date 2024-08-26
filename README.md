@@ -8,7 +8,7 @@ Tweets: Around 470,000 Tweets were web-scraped from December 2014 to December 20
 Politeness Classification: Each Tweet received a politeness score using a deep learning model trained on existing research data.
 Historical Data: Included the proportion of Scottish and Irish settlers in 1790, contemporary socioeconomic data, and historical proxies like newspaper circulation from 1840.
 
-# Note: The data used in this project is not included in the repository. Please contact me if you need access to the data.
+## Note: The data used in this project is not included in the repository. Please contact me if you need access to the data.
 
 # Methodology
 
@@ -27,17 +27,16 @@ results/: Outputs, including regression results and graphs.
 How to Run
 
 Clone the repository:
-'''
+'''bash
 git clone https://github.com/tommaso-ruzzon/honour_politeness.git
-'''
+
 Navigate to the project directory:
-'''
+'''bash
 cd honour_politeness/c_program
-'''
+
 Run the master script:
-'''
+'''bash
 python 00_execute_honourpoliteness_master.py
-'''
 
 # Future work
 
