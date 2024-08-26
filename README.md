@@ -21,7 +21,7 @@ Additional Checks: Region-specific regressions and negative binomial models for 
 c_program/: Main scripts and code for running the project.
 00_execute_honourpoliteness_master.py: Master script to run all processes.
 
-results/: Outputs, including regression results and graphs.
+d_results/: Outputs, including regression results and graphs.
 
 # How to Run
 
