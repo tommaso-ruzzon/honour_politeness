@@ -20,23 +20,23 @@ Additional Checks: Region-specific regressions and negative binomial models for 
 
 c_program/: Main scripts and code for running the project.
 00_execute_honourpoliteness_master.py: Master script to run all processes.
-honourpoliteness_webscraping.py: Script for web-scraping Tweets.
-honourpoliteness_samplecreation_main.py: Data preparation script.
-data/: Directory for data files (not included in this repository).
+
 results/: Outputs, including regression results and graphs.
-How to Run
+
+# How to Run
 
 Clone the repository:
-''' ruby
+```bash
 git clone https://github.com/tommaso-ruzzon/honour_politeness.git
-'''
+```
 Navigate to the project directory:
-''' ruby
+```bash
 cd honour_politeness/c_program
-
+```
 Run the master script:
-''' ruby
+```bash
 python 00_execute_honourpoliteness_master.py
+```
 
 # Future work
 
