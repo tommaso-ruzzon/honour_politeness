@@ -1,0 +1,29 @@
+
+=================================================
+                              Model 1    Model 2 
+-------------------------------------------------
+(Intercept)                    0.36 ***          
+                              (0.06)             
+urban_rate                    -0.02      -0.06   
+                              (0.04)     (0.04)  
+fractionalization             -0.09      -0.03   
+                              (0.06)     (0.06)  
+num_allnews_pc                -0.00              
+                              (0.01)             
+adu_bach                       0.00       0.00   
+                              (0.00)     (0.00)  
+pov_allages                    0.00       0.00   
+                              (0.00)     (0.00)  
+dist_shallowford              -0.37 ***  -0.31 **
+                              (0.05)     (0.14)  
+-------------------------------------------------
+Num. obs.                     88         88      
+Adj. R^2 (full model)          0.39       0.43   
+Adj. R^2 (proj model)          0.39      -0.05   
+F statistic (full model)      10.29       5.99   
+F (full model): p-value        0.00       0.00   
+F statistic (proj model)      10.29       1.83   
+F (proj model): p-value        0.00       0.10   
+Num. groups: factor(FIPS_ST)              9      
+=================================================
+*** p < 0.01; ** p < 0.05; * p < 0.1
